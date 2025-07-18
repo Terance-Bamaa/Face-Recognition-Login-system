@@ -90,7 +90,7 @@ The application uses subprocess to call the face_recognition CLI.
 
 Make sure the CLI is installed and available in your system path.
 
-📸Screenshot
+📸Screenshots
 <img width="901" height="414" alt="image" src="https://github.com/user-attachments/assets/d68e5183-b953-4e5b-b5bd-87a3e9c735bb" />
 
 
